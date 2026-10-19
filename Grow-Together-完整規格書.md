@@ -152,3 +152,10 @@ lastCompletionDate   最近完成日期
 
 自動化測試瀏覽器基於安全政策不能直接瀏覽 `file://` 網址，因此實際互動測試使用本機網址完成。成品不含任何外部資源或網路請求，`index.html` 本身仍是獨立單檔，可由一般瀏覽器直接開啟。
 
+## 12. 公開部署結果
+
+- GitHub 儲存庫：https://github.com/imyujui/grow-together
+- GitHub Pages：https://imyujui.github.io/grow-together/
+- 發布來源：`main` 分支的 `/(root)` 目錄
+- 驗證結果：已實際開啟正式網址，確認頁面標題、領養流程、任務介面與完整六枚成就均成功載入。
+
